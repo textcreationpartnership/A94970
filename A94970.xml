@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and perfect relation of the taking of a great ship at Yarmouth, October 4. Sent from the Queen out of Holland to the Kings Majesty, wherein was ten pieces of ordnance, 50. barrels of powder, and 100. and 50. commanders, as it was informed to the House of Commons, October 6. Also Her Majesties letter to the King, read before the committee, October the sixth, which letter was taken in the said ship at Yarmouth. Likewise the manner of Master Hothams taking of Keywood Castle in Yorkshire, since the agreement of the laying down of arms in that county. With the instructions from the House to the Lord Willoughbie of Parham, to aid and assist the said M. Hotham against the Earle of Cumberland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94970</idno>
+            <idno type="STC">Wing T2567</idno>
+            <idno type="STC">Thomason E121_21</idno>
+            <idno type="STC">ESTC R2619</idno>
+            <idno type="EEBO-CITATION">99872118</idno>
+            <idno type="PROQUEST">99872118</idno>
+            <idno type="VID">124541</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94970)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124541)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E121[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and perfect relation of the taking of a great ship at Yarmouth, October 4. Sent from the Queen out of Holland to the Kings Majesty, wherein was ten pieces of ordnance, 50. barrels of powder, and 100. and 50. commanders, as it was informed to the House of Commons, October 6. Also Her Majesties letter to the King, read before the committee, October the sixth, which letter was taken in the said ship at Yarmouth. Likewise the manner of Master Hothams taking of Keywood Castle in Yorkshire, since the agreement of the laying down of arms in that county. With the instructions from the House to the Lord Willoughbie of Parham, to aid and assist the said M. Hotham against the Earle of Cumberland.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>October 7. Printed for H. Blake,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A true relation of Master Hothams taking of Keywood Castle" on p. 6.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Henrietta Maria, --  Queen, consort of Charles I, King of England, 1609-1669.</term>
+               <term>Cumberland, Henry Clifford, --  Earl of, 1591-1643.</term>
+               <term>Hotham, John, d. 1645 Jan. 1.</term>
+               <term>Willoughby of Parham, Francis Willoughby, --  Baron, 1613?-1666.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Naval operations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124541:1" rendition="simple:additions"/>
+            <p>A True and Perfect RELATION OF THE TAKING OF A GREAT SHIP at Yarmouth, October 4. Sent from the Queen out of <hi>Holland</hi> to the Kings Majeſty, wherein was ten pieces of Ordnance, 50. Barrels of pow<g ref="char:EOLhyphen"/>der, and 100. and 50. Commanders, as it was informed to the Houſe of Commons, <hi>October.</hi> 6.</p>
+            <p>Alſo Her Majeſties Letter to the King, Read before the Committee, <hi>October</hi> the ſixth, which letter was ta<g ref="char:EOLhyphen"/>ken in the ſaid ſhip at <hi>Yarmouth.</hi>
+            </p>
+            <p>Likewiſe the manner of Maſter Hothams taking of Keywood Caſtle in <hi>Yorkshire,</hi> ſince the agreement of the laying down of Arms in that County. With the In<g ref="char:EOLhyphen"/>ſtructions from the Houſe to the <hi>Lord Willough<g ref="char:EOLhyphen"/>bie</hi> of <hi>Parham,</hi> to aid and aſſiſt the ſaid <hi>M. Hotham</hi> againſt the Earle of <hi>Cumberland.</hi>
+            </p>
+            <p>October 7. Prinred for H. Blake, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:124541:2"/>
+            <pb facs="tcp:124541:2"/>
+            <head>A TRUE RELATION OF The taking of a ſhip ſent from the Queen <hi>out of Holland to his Maieſty, October the</hi> 4.</head>
+            <p>
+               <seg rend="decorInit">O</seg>N Thurſday the ſixth of October, a packet of Letters was brought to the Houſe of Commons, &amp; from thence referred to the cloſe Co<g ref="char:EOLhyphen"/>mittee for the defence of the Kingdome, which came from <hi>Yarmouth,</hi> and came out of <hi>Holland</hi> from the Queen which were intercepted in this manner, <hi>viz.</hi>
+            </p>
+            <p>The Queen of <hi>England</hi> having bought a ſhip with her own money, ſent the ſame over into <hi>England</hi> with ten pieces of Ordnance, and forty or fifty bar<g ref="char:EOLhyphen"/>rels of powder, and a hundred and fifty Cavaleers
+<pb facs="tcp:124541:3"/>which were to land at New Caſtle, and from thence to be conveyed to his Majeſty, the King of Great Britain.</p>
+            <p>But when the ſaid ſhip c<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me neere to New-caſtle, ſhe was driven in at <hi>YARMOVTH</hi> by a contrary wind, and when the Cavaleers that were in the ſaid ſhip perceived that there was no remedy, but that they muſt come into Yarmouth, where they knew they ſhould be ſearched, and all their intentions made fruſtrate, they began to bethink with them<g ref="char:EOLhyphen"/>ſelves, that it was better to dro<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vad all their Letters, then to put it to the hazzard of having all their Se<g ref="char:EOLhyphen"/>crets come to light,</p>
+            <p>And thereupon they agreed, that they would ſink their Packet of Letters in the Sea, before they came to Land,</p>
+            <p>And for the better effecting of this, they put into the packer two or three bullets, and ſo threw them into the Sea, which being perceived by a Fiſherman that was in a ſmall boat neere to the ſhip, the ſaid Fiſherman dived after it into the Water being well acquainted with the depth of the Waters in that place) and took up the ſaid Packet of Letters, and preſented them to the Governours of Yar<g ref="char:EOLhyphen"/>mouth.</p>
+            <p>VVhereupon the ſaid Governours immediately reſolved to ſend them to the Honourable Court of <hi>PARLIAMENT</hi> the great Councell of this King<g ref="char:EOLhyphen"/>dome, which was this preſent day being the ſixth of this inſtant month of October preſented to the houſe of Commons, the worthy Members of the ſaid Houſe gave order and Command, that they
+<pb facs="tcp:124541:3"/>ſhould be referred to the cloſe Committee, which was accordingly performed, and at the opening of the ſame, there was one Letter ſent from the Queen in <hi>HOLLAND</hi> to the Kings moſt excellent Maje<g ref="char:EOLhyphen"/>ſty, as followeth.</p>
+            <p>
+               <hi>That her Maieſty intends to be in England very ſpeedily, having fourteen of the Hollan<g ref="char:EOLhyphen"/>ders ſhips ready provided for her conduct into ENGLAND, together with divers other Let<g ref="char:EOLhyphen"/>ters, the particulars whereof are not as yet known.</hi>
+            </p>
+            <p>
+               <hi>It was alſo informed to the Houſe, that the ſaid ſhips and the Cavaleers, and other provi<g ref="char:EOLhyphen"/>ſion of Warre that were in the ſaid ſhip were ſeized upon at Yarmouth, and there detained cuſtody, untill they receive further Directions from the Parliament,</hi>
+            </p>
+            <p>This is the true and perfect Relation that came to both Houſes upon Thurſday, being the ſixth of October.</p>
+         </div>
+         <div type="account">
+            <pb facs="tcp:124541:4"/>
+            <head>A true Relation of Maſter <hi>Hothaws</hi> taking of <hi>Keywood</hi> Caſtle.</head>
+            <p>THis day Newes came to the Houſe out of <hi>Yorkeſhire,</hi> that Maſter <hi>Ho<g ref="char:EOLhyphen"/>tham</hi> diſclaimed any conſent or a<g ref="char:EOLhyphen"/>greement to the Articles of a peace be<g ref="char:EOLhyphen"/>tween the Earie of <hi>Comberland</hi> and the Lord <hi>Fairefax</hi> and the reſt of the Gentry of the County of <hi>Yorke:</hi> And that for ſaid agreement Maſter <hi>Hotham</hi> with his Forces tooke the Town of <hi>Selby,</hi> and hath ſtopped the paſſage of all boats to <hi>Yorke,</hi> and taken a ſtrong Caſtle called <hi>Keywood,</hi> belonging to the Biſhop of that Diece, and reſolves to maintaine his Majeſties Pretogative, the Rights and Priviledges of Parliament, the Lawes of the Kingdom and the Liberty and propriety of the ſub<g ref="char:EOLhyphen"/>ject
+<pb facs="tcp:124541:4"/>according to the Inſtructions ſent un<g ref="char:EOLhyphen"/>to them of that County from the Parlia<g ref="char:EOLhyphen"/>ment, he being of opinion, that the Arti<g ref="char:EOLhyphen"/>cles agreed upon are prejudiciall to the whole Kingdome, and of that County in particular, and that no one County ought to withdraw themſelves from the com<g ref="char:EOLhyphen"/>mon cauſe, bue to aime with the Parlia<g ref="char:EOLhyphen"/>ment in the defence of the Kingdome, and with them to labour by all good meanes to procure a generall peace and protection from the King, for all his ſubjects with both the Houſes of Parliament, have by many humble Petitions deſired by His Majeſtie but cannot yet obteyne.</p>
+            <p>And according to the Parliaments De<g ref="char:EOLhyphen"/>claration, if they ſhould ſuffer any parti<g ref="char:EOLhyphen"/>cular Counties to divide themſelves from the reſt of the Kingdome, it will be a meanes to bring all to tuine and deſtruct<g ref="char:EOLhyphen"/>ion, and therfore the ſaid Mr. <hi>Hotham</hi> is ready with thoſe forces that he brought with him from <hi>Hull</hi> to aſsiſt the Parlia<g ref="char:EOLhyphen"/>ment in this cauſe which newes was very
+<pb facs="tcp:124541:5"/>acceptable to the Houſe, in regard that they had voted the ſaid agreement to be void, becauſe it was deſtructive to the peace of the Kingdome, and agreed that the <hi>L. Willoughby</hi> of <hi>Parham</hi> in <hi>Linc<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſhire,</hi> ſhould make all the ſpeed he could poſsible to aid and aſsiſt Mr. <hi>Hotham</hi> and the reſt of the County of <hi>Yorke</hi> that are well affected to the proceedings of Parlia<g ref="char:EOLhyphen"/>ment againſt the Earl of <hi>Comberland<g ref="char:punc">▪</g>
+               </hi> for the ſetling of the peace of that County.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:124541:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
